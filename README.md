@@ -1,6 +1,6 @@
 ---
 
-# YouTube Thumbnail Downloader  
+# YTD - YouTube Thumbnail Downloader  
 
 <div align="center">
 
@@ -8,6 +8,7 @@
 
 A professional, reliable, and easy-to-use tool for downloading high-quality YouTube thumbnails. With an intuitive CLI interface, error handling, and logging, this tool is perfect for developers and content creators alike.
 
+</div>
 ---
 
 ## ✨ Features  
