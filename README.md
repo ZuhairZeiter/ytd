@@ -2,6 +2,8 @@
 
 # YouTube Thumbnail Downloader  
 
+<div align="center">
+
 ![Tool Banner](https://i.ibb.co/Rvnbm2M/YTD-Logo-White-with-Black-Background-5000x5000-1.png)  
 
 A professional, reliable, and easy-to-use tool for downloading high-quality YouTube thumbnails. With an intuitive CLI interface, error handling, and logging, this tool is perfect for developers and content creators alike.
