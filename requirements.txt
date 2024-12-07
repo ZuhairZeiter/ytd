@@ -1,0 +1,7 @@
+requests==2.31.0       # For making HTTP requests to the YouTube Data API and downloading thumbnails
+isodate==0.6.1         # For parsing ISO 8601 duration strings
+colorama==0.4.6        # For colored terminal output
+logging                # For error and event logging (part of Python standard library, no installation needed)
+random                 # For generating random filenames (part of Python standard library, no installation needed)
+os                     # For directory creation and file handling (part of Python standard library, no installation needed)
+re                     # For regex-based URL validation (part of Python standard library, no installation needed)
