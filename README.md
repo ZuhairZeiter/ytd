@@ -44,7 +44,7 @@ Ensure you have the following installed on your system:
    pip install -r requirements.txt
    ```  
 
-3. Replace the placeholder API key in `main()` with your YouTube Data API key:  
+3. Replace the placeholder API key in `config.py`file with your YouTube Data API key:  
    ```python
    api_key = "YOUR_API_KEY_HERE"
    ```  
@@ -91,7 +91,8 @@ Exiting. Thank you for using the YouTube Thumbnail Downloader!
 youtube-thumbnail-downloader/
 ├── thumbnails/          # Saved thumbnails
 ├── requirements.txt     # Python dependencies
-├── ytd.py              # Main script
+├── config.py            # Configuration
+├── ytd.py               # Main script
 ├── README.md            # Documentation
 ├── log.txt              # Logs for errors and events
 ```
