@@ -1,5 +1,3 @@
----
-
 # YTD - YouTube Thumbnail Downloader  
 
 <div align="center">
