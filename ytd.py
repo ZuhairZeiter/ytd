@@ -5,6 +5,7 @@ import isodate
 import logging
 import random
 import string
+from config import *
 from colorama import Fore, Style, init
 
 
@@ -134,7 +135,6 @@ def clear_terminal():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def main():
-    api_key = "AIzaSyD7Mfa2ObOgl7dgov2456toRbydu1wD_Yg"
 
     while True:
         clear_terminal()
